@@ -1,7 +1,7 @@
 - Hi, I’m @Gautam,
 - I’m interested in programming.
 - I’m currently learning python.
-- I’m looking for security breached.
+- I’m looking for security breaches.
 - How to reach me? Through shining the bat signal on the sky.
 
 <!---
