@@ -5,6 +5,6 @@
 - How to reach me? Through shining the bat signal on the sky.
 
 <!---
-ryuiiji/ryuiiji is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+gautam/gautam is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
